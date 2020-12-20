@@ -17,6 +17,8 @@ As well as developing my own R code to solve the data challenges I face, I have 
 ## 📢 My Publications
 The publications I have been involved in so far can be viewed on my [ORCID iD page](https://orcid.org/0000-0003-2653-6615). All focus on the use of the *Vehicle Emissions Remote Sensing* technique to measure emissions from road transport, and the unique insights they can provide that in-lab or on-board techniques cannot. They were written in [LaTeX](https://www.latex-project.org//), a plain-text document preparation system, using the online editor [Overleaf](https://www.overleaf.com/).
 
+The data analysis for my publications is almost entirely conducted and visualised within R, though I commonly use the open-source vector graphics editor [Inkscape](https://inkscape.org/) to refine figures and produce graphical abstracts. I have no formal graphic design training and self-taught myself the software with help from the [Logos by Nick](https://www.youtube.com/channel/UCEQXp_fcqwPcqrzNtWJ1w9w) YouTube channel.
+
 <img src="https://github.com/jack-davison/jack-davison/blob/main/abstract_banner.png" alt = "A collection of three graphical abstracts.">
 
 ## 📊 Data Visualisation
