@@ -13,7 +13,7 @@
 **I am a PhD Student in atmospheric chemistry in at the [Wolfson Atmospheric Chemistry Laboratories](https://www.york.ac.uk/chemistry/research/wacl/) at the [University of York](https://www.york.ac.uk/) in the United Kingdom, investigating how emissions from road transport impacts the air we breathe.** As part of my work I must delve into extremely large data sets of roadside data, which I accomplish primarily using [R](https://www.r-project.org/) in the [RStudio](https://rstudio.com/) IDE, with a focus on the [`{tidyverse}`](https://www.tidyverse.org/) suite of R packages. As well as developing my own code to solve the data challenges I face, I have supported and taught collegaues R and developed my own self-learning R materials to assist new users.
 
 ## 📢 My Publications
-The publications I have been involved in so far can be viewed on my [ORCID iD page](https://orcid.org/0000-0003-2653-6615). All focus on the use of the *Vehicle Emissions Remote Sensing* tehcnique to measure emissions from remote transport.
+The publications I have been involved in so far can be viewed on my [ORCID iD page](https://orcid.org/0000-0003-2653-6615). All focus on the use of the *Vehicle Emissions Remote Sensing* technique to measure emissions from road transport.
 
 <img src="https://github.com/jack-davison/jack-davison/blob/main/abstract_banner.png" alt = "A collection of three graphical abstracts.">
 
