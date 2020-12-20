@@ -21,9 +21,9 @@ The publications I have been involved in so far can be viewed on my [ORCID iD pa
 
 The data analysis for my publications is almost entirely conducted and visualised within R, though I commonly use the open-source vector graphics editor [Inkscape](https://inkscape.org/) to refine figures and produce graphical abstracts. I have no formal graphic design training and self-taught myself the software with help from the [Logos by Nick](https://www.youtube.com/channel/UCEQXp_fcqwPcqrzNtWJ1w9w) YouTube channel.
 
-<img href = "https://orcid.org/0000-0003-2653-6615" src="https://github.com/jack-davison/jack-davison/blob/main/abstract_banner.png" alt = "A collection of three graphical abstracts.">
+<a href = "https://orcid.org/0000-0003-2653-6615"><img src="https://github.com/jack-davison/jack-davison/blob/main/abstract_banner.png" alt = "A collection of three graphical abstracts."></a>
 
 ## 📊 Data Visualisation
 In my spare time, I enjoy developing my R and data visualisation skills through the [#TidyTuesday Project](https://github.com/rfordatascience/tidytuesday), a weekly data science challenge to both wrangle and visualise an unseen, "real-world" data set. You can view all of my visualisations and the code used to create them in their [dedicated repository](https://github.com/jack-davison/TidyTuesday). Let me know what you think over Twitter - I'm [`@JDavison`](https://twitter.com/JDavison_)!
 
-<img href = "https://github.com/rfordatascience/tidytuesday" src="https://github.com/jack-davison/jack-davison/blob/main/tt_banner.png" alt = "A collection of TidyTuesday visualisations.">
+<a href = "https://github.com/jack-davison/TidyTuesday"><img src="https://github.com/jack-davison/jack-davison/blob/main/tt_banner.png" alt = "A collection of TidyTuesday visualisations."></a>
