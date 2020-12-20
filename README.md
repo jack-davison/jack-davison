@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align="center" text-decoration:none>Hello - I'm Jack!</h1>
+<p align = "center">(He / Him / His)</p>
+
+<div align = "center">
+ &nbsp;&nbsp;&nbsp;🐤 <a href="https://twitter.com/JDavison_">Twitter<a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;💼 <a href="https://www.linkedin.com/in/jack-davison/">LinkedIn<a>
+</div>
+
+## Who am I
+I am a PhD Student in atmospheric chemistry in at the [Wolfson Atmospheric Chemistry Laboratories](https://www.york.ac.uk/chemistry/research/wacl/) at the [University of York](https://www.york.ac.uk/) in the United Kingdom, investigating how emissions from road transport impacts the air we breathe. 
+
 
 <!--
 **jack-davison/jack-davison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +20,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+-  ...
 - ⚡ Fun fact: ...
 -->
