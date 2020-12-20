@@ -15,7 +15,7 @@ I am a PhD Student in atmospheric chemistry in at the [Wolfson Atmospheric Chemi
 ## 📢 My Publications
 The publications I have been involved in so far can be viewed on my [ORCID iD page](https://orcid.org/0000-0003-2653-6615).
 
-![./graph_abs_banner.png](https://orcid.org/0000-0003-2653-6615)
+<img src="https://github.com/jack-davison/jack-davison/blob/main/graph_abs_banner.png" alt = "A collection of three graphical abstracts.">
 
 ## 📊 Data Visualisation
 When not working on 
