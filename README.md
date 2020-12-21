@@ -24,6 +24,6 @@ The data analysis for my publications is almost entirely conducted and visualise
 <a href = "https://orcid.org/0000-0003-2653-6615"><img src="https://github.com/jack-davison/jack-davison/blob/main/abstract_banner.png" alt = "A collection of three graphical abstracts."></a>
 
 ## 📊 Data Visualisation
-In my spare time, I enjoy developing my R and data visualisation skills through the [#TidyTuesday Project](https://github.com/rfordatascience/tidytuesday), a weekly data science challenge to both wrangle and visualise an unseen, "real-world" data set. You can view all of my visualisations and the code used to create them in their [dedicated repository](https://github.com/jack-davison/TidyTuesday). Let me know what you think over Twitter - I'm [`@JDavison`](https://twitter.com/JDavison_)!
+In my spare time, I enjoy developing my R and data visualisation skills through the [#TidyTuesday Project](https://github.com/rfordatascience/tidytuesday), a weekly data science challenge to both wrangle and visualise an unseen, "real-world" data set. You can view all of my visualisations and the code used to create them in their [dedicated repository](https://github.com/jack-davison/TidyTuesday). Let me know what you think over Twitter - I'm [`@JDavison_`](https://twitter.com/JDavison_)!
 
 <a href = "https://github.com/jack-davison/TidyTuesday"><img src="https://github.com/jack-davison/jack-davison/blob/main/tt_banner.png" alt = "A collection of TidyTuesday visualisations."></a>
