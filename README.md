@@ -1,6 +1,6 @@
 <!--- Header markdown adapted from the README at https://github.com/Z3tt --->
 
-<h1 align="center">👱🏻‍♂️ Hello - I'm Jack! 👋🏻</h1>
+<h1 align="center">Hello - I'm Jack!</h1>
 <p align = "center">💬 He / Him / His 💬</p>
 
 <div align = "center">
