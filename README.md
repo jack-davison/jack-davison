@@ -1,31 +1,46 @@
-<!--- Header markdown adapted from the README at https://github.com/Z3tt --->
-
-<h1 align="center">Hello - I'm Jack!</h1>
-<p align = "center">💬 He / Him / His 💬</p>
-
-<div align = "center">
- &nbsp;&nbsp;&nbsp;🐤 <a href="https://twitter.com/JDavison_">Twitter<a>&nbsp;&nbsp;&nbsp;
- •
- &nbsp;&nbsp;&nbsp;💼 <a href="https://www.linkedin.com/in/jack-davison/">LinkedIn<a>&nbsp;&nbsp;&nbsp;
- •
- &nbsp;&nbsp;&nbsp;✍🏼 <a href="https://jack-davison.github.io/">Blog<a>&nbsp;&nbsp;&nbsp;
- •
- &nbsp;&nbsp;&nbsp;<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"> <a href="https://orcid.org/0000-0003-2653-6615/">ORCID<a>&nbsp;&nbsp;&nbsp;
+<div id="header" align="center">
+  <a href="https://thenounproject.com/icon/computer-4180105/"><img src="noun-computer.png" width="150"/></a>
+  
+  [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JDavison_)
+  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jack-davison/)
+  [![orcid](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2653-6615/)
 </div>
 
-## 👨🏼‍💻 Who am I?
-**I am an air quality data analyst for a consultancy company in the United Kingdom, developing and maintaining [R](https://www.r-project.org/) scripts, packages and apps to support work in the practice.** I recently submitted my thesis for my PhD in atmospheric chemistry at the [Wolfson Atmospheric Chemistry Laboratories](https://www.york.ac.uk/chemistry/research/wacl/) at the [University of York](https://www.york.ac.uk/), investigating how emissions from road transport impact the air we breathe. As part of my work I delve into very large data sets, which I accomplish primarily using [R](https://www.r-project.org/) in the [RStudio](https://rstudio.com/) IDE, with a focus on the [`{tidyverse}`](https://www.tidyverse.org/) suite of R packages and the dedicated air quality analysis package [`{openair}`](https://davidcarslaw.github.io/openair). When exploring data, I commonly employ [RMarkdown](https://rmarkdown.rstudio.com/) and, more recently, [Quarto](https://quarto.org/) for reproducible data analysis.
+<h4 align="center">  
+  🖱️ R Development | 📊 Data Visualisation | 🫁 Air Quality
+</h4>
 
-As well as developing my own R code to solve the data challenges I face, I have supported and taught colleagues R and developed my own self-teaching R materials to assist new users through reading, manipulating and visualising data inside of an R environment. I have used these materials to teach introduction sessions to both PhD students and air quality professionals. More recently, I have become an [Rstudio Certified Tidyverse Instructor](https://education.rstudio.com/trainers/).
+### :man_technologist: About Me
 
-## 📢 My Publications
-The publications I have been involved in so far can be viewed on my [ORCID iD page](https://orcid.org/0000-0003-2653-6615). All focus on the use of the *Vehicle Emissions Remote Sensing* technique to measure emissions from road transport, and the unique insights they can provide that in-lab or on-board techniques cannot. They were written in [LaTeX](https://www.latex-project.org//), a plain-text document preparation system, using the online editor [Overleaf](https://www.overleaf.com/).
+I am an air quality data analyst, R developer & instructor in Oxfordshire, United Kingdom.
 
-The data analysis for my publications is almost entirely conducted and visualised within R, though I commonly use the open-source vector graphics editor [Inkscape](https://inkscape.org/) to refine figures and produce graphical abstracts. I have no formal graphic design training and self-taught myself the software with help from the [Logos by Nick](https://www.youtube.com/channel/UCEQXp_fcqwPcqrzNtWJ1w9w) YouTube channel.
+- 👷‍♂️ Currently developing the <b>[openairmaps](https://github.com/davidcarslaw/openairmaps)</b> R package
+- 🤷‍♂️ Learning [Shiny](https://shiny.rstudio.com/)
+- 👨‍🏫 [Rstudio Certified Tidyverse Instructor](https://education.rstudio.com/trainers/)
+- 👨‍🎓 PhD in Atmospheric Chemistry from the [Wolfson Atmospheric Chemistry Laboratories](https://www.york.ac.uk/chemistry/research/wacl/), [University of York](https://www.york.ac.uk/)
+- 🙋‍♂️ Reach me on [Twitter](https://twitter.com/JDavison_) - I'm [`@JDavison_`](https://twitter.com/JDavison_)
 
-<a href = "https://orcid.org/0000-0003-2653-6615"><img src="https://github.com/jack-davison/jack-davison/blob/main/abstract_banner.png" alt = "A collection of three graphical abstracts."></a>
+----
 
-## 📊 Data Visualisation
-In my spare time, I enjoy developing my R and data visualisation skills through the [#TidyTuesday Project](https://github.com/rfordatascience/tidytuesday), a weekly data science challenge to both wrangle and visualise an unseen, "real-world" data set. You can view all of my visualisations and the code used to create them in their [dedicated repository](https://github.com/jack-davison/TidyTuesday). Let me know what you think over Twitter - I'm [`@JDavison_`](https://twitter.com/JDavison_)!
+### 🤹‍♂️ Languages & Tools
 
-<a href = "https://github.com/jack-davison/TidyTuesday"><img src="https://github.com/jack-davison/jack-davison/blob/main/tt_banner.png" alt = "A collection of TidyTuesday visualisations."></a>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" alt="latex" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="inkscape" alt="inkscape" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
+</div>
+
+---
+
+### 🕺 Interests
+
+- My key interests are in R package development, Shiny development, and data visualisation.
+
+- I am interested in teaching R & reproducible data analysis, particularly to scientific & non-programmer audiences.
+
+- I occasionally take part in [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) - see some of my contributions below!
+
+[![](tt_banner.png)](https://github.com/jack-davison/TidyTuesday)
