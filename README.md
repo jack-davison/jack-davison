@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <a href="https://thenounproject.com/icon/computer-4180105/"><img src="noun-computer.png" width="150"/></a>
+  <a href="https://thenounproject.com/icon/computer-4180105/"><img src="computer.png" width="200"/></a>
   
   [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JDavison_)
   [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jack-davison/)
@@ -44,3 +44,7 @@ I am an air quality data analyst, R developer & instructor in Oxfordshire, Unite
 - I occasionally take part in [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) - see some of my contributions below!
 
 [![](tt_banner.png)](https://github.com/jack-davison/TidyTuesday)
+
+---
+
+Computer icon by monkik from <a href="https://thenounproject.com/browse/icons/term/computer/" target="_blank" title="Computer Icons">Noun Project</a>
