@@ -22,7 +22,7 @@ I am an air quality data analyst, R developer & instructor in Oxfordshire, Unite
 - 🤷‍♂️ Learning [Shiny](https://shiny.rstudio.com/)
 - 👨‍🏫 [Rstudio Certified Tidyverse Instructor](https://education.rstudio.com/trainers/)
 - 👨‍🎓 PhD in Atmospheric Chemistry from the [Wolfson Atmospheric Chemistry Laboratories](https://www.york.ac.uk/chemistry/research/wacl/), [University of York](https://www.york.ac.uk/)
-- 🙋‍♂️ Reach me on [Twitter](https://twitter.com/JDavison_) - I'm [`@JDavison_`](https://twitter.com/JDavison_)
+- 🙋‍♂️ Reach me on [Twitter](https://twitter.com/JDavison_) and <a rel="me" href="https://fosstodon.org/@jackdavison">Mastodon</a>.
 
 ----
 
