@@ -11,7 +11,7 @@
 
 
 <h4 align="center">  
-  🖱️ R Development | 📊 Data Visualisation | 🫁 Air Quality
+  🖱️ R Development | 📊 Data Visualisation | 🏭 Air Quality
 </h4>
 
 ### :man_technologist: About Me
