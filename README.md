@@ -18,9 +18,9 @@
 
 I am an air quality data analyst, R developer & instructor in Oxfordshire, United Kingdom.
 
-- 👷‍♂️ Currently developing the <b>[openairmaps 🗺️](https://github.com/davidcarslaw/openairmaps)</b> and <b>[ggopenair 🎯](https://github.com/jack-davison/ggopenair)</b> R packages.
-- 🤷‍♂️ Learning [Shiny](https://shiny.rstudio.com/)
-- 👨‍🏫 [Rstudio Certified Tidyverse Instructor](https://education.rstudio.com/trainers/)
+- 👷‍♂️ Developer on the <b>[openair](https://bookdown.org/david_carslaw/openair/)</b> ☁️ toolkit of R packages.
+- 🤷‍♂️ Learning [Observable JS](https://observablehq.com/framework/)
+- 👨‍🏫 [Posit Certified Tidyverse Instructor](https://education.rstudio.com/trainers/)
 - 👨‍🎓 PhD in Atmospheric Chemistry from the [Wolfson Atmospheric Chemistry Laboratories](https://www.york.ac.uk/chemistry/research/wacl/), [University of York](https://www.york.ac.uk/)
 - 🙋‍♂️ Reach me on [X (Twitter)](https://twitter.com/JDavison_) and <a rel="me" href="https://fosstodon.org/@jackdavison">Mastodon</a>.
 
@@ -30,8 +30,10 @@ I am an air quality data analyst, R developer & instructor in Oxfordshire, Unite
 
 <div>
   <a href="https://www.r-project.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://quarto.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.latex-project.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" alt="latex" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://shiny.posit.co/"><img src="https://rstudio.github.io/shiny/reference/figures/logo.png" title="shiny" alt="shiny" width="55" height="60"/></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://quarto.org/"><img src="https://rstudio.github.io/cheatsheets/html/images/logo-quarto.png" title="quarto" alt="quarto" width="55" height="60"/></a>&nbsp;&nbsp;&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU8u8tpVE9yl1Jj0L81O7deRDfyW-yOXX-Kw&s" width="2" height="60">&nbsp;&nbsp;&nbsp;
+  <a href="https://posit.co/download/rstudio-desktop/"><img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="rstudio" alt="rstudio" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://inkscape.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="inkscape" alt="inkscape" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
@@ -41,13 +43,11 @@ I am an air quality data analyst, R developer & instructor in Oxfordshire, Unite
 
 ### 🕺 Interests
 
-- My key interests are in R package development, Shiny development, and data visualisation.
+- My key interests are in R package development, code-drive data dashboards & reporting, and data visualisation.
 
 - I am interested in teaching R & reproducible data analysis, particularly to scientific & non-programmer audiences.
 
-- I occasionally take part in [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) - see some of my contributions below!
-
-[![](tt_banner.png)](https://github.com/jack-davison/TidyTuesday)
+- I occasionally take part in [#TidyTuesday](https://github.com/rfordatascience/tidytuesday).
 
 ---
 
