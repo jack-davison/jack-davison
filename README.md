@@ -1,8 +1,7 @@
 <div id="header" align="center">
   <a href="https://thenounproject.com/icon/computer-4180105/"><img src="computer.png" width="150"/></a>
   
-  [![twitter](https://img.shields.io/badge/X%20(twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/JDavison_)
-  [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://fosstodon.org/@jackdavison)
+  [![Bluesky](https://img.shields.io/badge/BlueSky-1185fe?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/jack-davison.bsky.social)
   [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jack-davison/)
   [![orcid](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2653-6615/)
   [![website](https://img.shields.io/badge/website-F0F0F0?style=for-the-badge&logo=About.me&logoColor=black)](https://jack-davison.github.io/)
@@ -22,7 +21,7 @@ I am an air quality data analyst, R developer & instructor in Oxfordshire, Unite
 - 🤷‍♂️ Learning [Observable JS](https://observablehq.com/framework/)
 - 👨‍🏫 [Posit Certified Tidyverse Instructor](https://education.rstudio.com/trainers/)
 - 👨‍🎓 PhD in Atmospheric Chemistry from the [Wolfson Atmospheric Chemistry Laboratories](https://www.york.ac.uk/chemistry/research/wacl/), [University of York](https://www.york.ac.uk/)
-- 🙋‍♂️ Reach me on [X (Twitter)](https://twitter.com/JDavison_) and <a rel="me" href="https://fosstodon.org/@jackdavison">Mastodon</a>.
+- 🙋‍♂️ Reach me on [BlueSky](https://bsky.app/profile/jack-davison.bsky.social) or [LinkedIn](https://www.linkedin.com/in/jack-davison/)
 
 ----
 
