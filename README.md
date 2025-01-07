@@ -17,7 +17,7 @@
 
 I am an air quality data analyst, R developer & instructor in Oxfordshire, United Kingdom.
 
-- 👷‍♂️ Developer on the <b>[openair](https://bookdown.org/david_carslaw/openair/)</b> ☁️ toolkit of R packages.
+- 👷‍♂️ Developer on the <b>[openair project](https://github.com/openair-project)</b>, a toolkit of R packages for air quality data analysis
 - 🤷‍♂️ Learning [Observable JS](https://observablehq.com/framework/)
 - 👨‍🏫 [Posit Certified Tidyverse Instructor](https://education.rstudio.com/trainers/)
 - 👨‍🎓 PhD in Atmospheric Chemistry from the [Wolfson Atmospheric Chemistry Laboratories](https://www.york.ac.uk/chemistry/research/wacl/), [University of York](https://www.york.ac.uk/)
